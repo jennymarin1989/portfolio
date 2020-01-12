@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.a3ad6cb3.chunk.css",
+    "main.js": "/portfolio/static/js/main.3fa0c854.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.3fa0c854.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.7e82ed09.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.7e82ed09.js.map",
+    "static/js/2.4865e374.chunk.js": "/portfolio/static/js/2.4865e374.chunk.js",
+    "static/js/2.4865e374.chunk.js.map": "/portfolio/static/js/2.4865e374.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.64e4b89ecb4df5e089b4d40e46ac4ed1.js": "/portfolio/precache-manifest.64e4b89ecb4df5e089b4d40e46ac4ed1.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.a3ad6cb3.chunk.css.map": "/portfolio/static/css/main.a3ad6cb3.chunk.css.map",
+    "static/media/black-pen-arrow.svg": "/portfolio/static/media/black-pen-arrow.98bfbe05.svg",
+    "static/media/green-pen-arrow.svg": "/portfolio/static/media/green-pen-arrow.d7c0c37d.svg",
+    "static/media/purple-pen-arrow.svg": "/portfolio/static/media/purple-pen-arrow.28bf1e62.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e82ed09.js",
+    "static/js/2.4865e374.chunk.js",
+    "static/css/main.a3ad6cb3.chunk.css",
+    "static/js/main.3fa0c854.chunk.js"
+  ]
+}
