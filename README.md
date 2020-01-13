@@ -1,6 +1,6 @@
 # Portfolio
 
-Currently building my website porftolio using create-react-app
+Currently building my [website porftolio](https://jennymarin1989.github.io/portfolio/) using create-react-app
 
 ## Available Scripts
 
