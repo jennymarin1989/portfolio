@@ -5,6 +5,7 @@
 	"homepage": "http://jennymarin1989.github.io/portfolio",
 	"dependencies": {
 		"enzyme-adapter-react-16": "^1.15.1",
+		"eslint": "^6.8.0",
 		"node-sass": "^4.13.0",
 		"react": "^16.11.0",
 		"react-dom": "^16.11.0",
