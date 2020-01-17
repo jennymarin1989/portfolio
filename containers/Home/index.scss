@@ -1,0 +1,24 @@
+@import '../../styles/base.scss';
+
+  .homepage {
+    position: relative;
+    display: flex;
+    width: 100%;
+    min-height: 100vh;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    scroll-snap-align: start;
+
+    &__header {
+        font-weight: 400;
+        font-size: 2.5rem;
+      }
+
+    &__img-arrow {
+        position: absolute;
+      }
+    
+  }
+
